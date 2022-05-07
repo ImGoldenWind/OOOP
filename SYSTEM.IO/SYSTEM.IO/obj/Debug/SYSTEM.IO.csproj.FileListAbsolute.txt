@@ -1,0 +1,7 @@
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\bin\Debug\SYSTEM.IO.exe.config
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\bin\Debug\SYSTEM.IO.exe
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\bin\Debug\SYSTEM.IO.pdb
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\obj\Debug\SYSTEM.IO.csproj.AssemblyReference.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\obj\Debug\SYSTEM.IO.csproj.CoreCompileInputs.cache
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\obj\Debug\SYSTEM.IO.exe
+C:\Users\evilg\OneDrive\Рабочий стол\Визуалка\SYSTEM.IO\SYSTEM.IO\obj\Debug\SYSTEM.IO.pdb
