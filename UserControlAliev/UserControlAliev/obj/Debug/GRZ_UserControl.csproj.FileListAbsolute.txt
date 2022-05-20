@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\GRZ_UserControl.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\UserControl1.g.cs
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\App.g.cs
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\GRZ_UserControl_MarkupCompile.cache
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\GRZ_UserControl_MarkupCompile.lref
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\UserControl1.baml
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\GRZ_UserControl.exe
+C:\Users\student\source\repos\GRZ_UserControl\GRZ_UserControl\obj\Debug\GRZ_UserControl.pdb
